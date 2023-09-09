@@ -1,0 +1,13 @@
+.title{
+background-color: rgb(234, 171, 148);
+color : white;
+padding: 5px 5px;
+text-align: center;
+border-radius: 3px;
+margin-top: 20px;
+}
+
+.content{
+    display: flex;
+    gap:50px
+}
